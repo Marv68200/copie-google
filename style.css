@@ -1,0 +1,93 @@
+/*------BALISES------*/
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/*------CLASS------*/
+.input-search:hover{
+box-shadow: 0px 0px 9px 0px rgba(64,64,64,0.78);
+}
+.input-search{
+  width: 550px;
+  height: 34px;
+  border-radius: 25px;
+  border-width: 1px;
+  border-color: #ebebeb;
+  outline: none;
+}
+.language{
+}
+.search-bouton{
+  padding-top: 25px;
+}
+.bouton:hover{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ebebeb;
+  cursor: pointer;
+}
+.bouton{
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+
+}
+.search{
+  padding-top: 20px;
+}
+.contener{
+  text-align: center;
+}
+.logo{
+  padding-top: 202px;
+}
+.header{
+  padding: 15px;
+  display: flex;
+  justify-content: flex-end;
+}
+.color-black{
+  color: black;
+}
+.color-grey{
+color: grey;
+}
+.marge-lien{
+  margin-right: 10px;
+}
+.bas-de-page{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #F2F2F2;
+  padding-bottom: 15px;
+}
+.marge-fr{
+  margin-left: 20px;
+}
+.lien-de-fin{
+  padding-top: 10px;
+  color: #70757A;
+}
+.vide{
+  padding: 180px;
+}
+.lien-droite{
+float: right;
+margin-right: 10px;
+margin-left: 20px;
+}
+.lien-milieu{
+  margin-left: 290px;
+}
+.lien-gauche{
+float: left;
+margin-right: 10px;
+margin-left: 20px;
+}
